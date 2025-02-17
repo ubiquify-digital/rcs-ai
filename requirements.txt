@@ -1,0 +1,9 @@
+ultralytics
+easyocr
+opencv-python
+torch
+numpy
+deep_sort_realtime
+gradio
+torchvision
+yolov8
